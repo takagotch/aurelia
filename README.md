@@ -16,6 +16,15 @@ export class App {
 </template>
 ```
 
-```
+```js
+export class App {
+welcome = "welcome";
+
+quests = [
+    "To seek the holy grail",
+    "To take the ring to Mordor",
+    "To rescue princess Leia"
+  ];
+}
 ```
 
